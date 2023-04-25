@@ -1,4 +1,4 @@
-package com.chatgrupo;
+package com.juancarlos13.chatGrupo;
 
 import android.os.Build;
 import android.os.Bundle;

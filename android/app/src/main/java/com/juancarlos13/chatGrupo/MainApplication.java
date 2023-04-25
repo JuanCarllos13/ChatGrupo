@@ -1,4 +1,4 @@
-package com.chatgrupo;
+package com.juancarlos13.chatGrupo;
 
 import android.app.Application;
 import android.content.res.Configuration;

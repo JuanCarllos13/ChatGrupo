@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "605668682072",
+    "project_id": "chatgrupo-f052c",
+    "storage_bucket": "chatgrupo-f052c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605668682072:android:ea28e6bf812d0d5c3b9d2d",
+        "android_client_info": {
+          "package_name": "com.juancarlos13.chatGrupo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "605668682072-tcejn0d6dag0ur7cjjc8tu544ml1er9g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqwcHwhfQPBwdIaKmaUkgR2Dqn_CAbEsA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "605668682072-tcejn0d6dag0ur7cjjc8tu544ml1er9g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
